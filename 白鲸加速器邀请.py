@@ -48,7 +48,7 @@ for _ in range(10):
     # 定义请求体
     payload = {
         "passwd": "31eeca8fa1484673311de3602ced6e5c",
-        "invite_code": "5NC35",
+        "invite_code": "邀请码",
         "email": email
     }
 
